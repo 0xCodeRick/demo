@@ -6,7 +6,7 @@
     "materialCode": "MC4561",
     "orderId": "ORD7891",
     "type": "1",
-    "serialNum": "SN1234561",
+    "serialNum": "21",
     "passTime": "2023-10-20T14:30:00Z",
     "snNumber": "11"
     },
@@ -16,7 +16,7 @@
     "materialCode": "MC4562",
     "orderId": "ORD7892",
     "type": "2",
-    "serialNum": "SN1234562",
+    "serialNum": "32",
     "passTime": "2023-10-20T14:30:00Z",
     "snNumber": "22"
    }
