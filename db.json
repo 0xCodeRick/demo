@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-    "id": ,
+    "id": null,
     "lineCode": "LC1231",
     "materialCode": "MC4561",
     "orderId": "ORD7891",
@@ -11,7 +11,7 @@
     "snNumber": "ZC78901231"
     },
    {
-    "id": ,
+    "id": null,
     "lineCode": "LC1232",
     "materialCode": "MC4562",
     "orderId": "ORD7892",
