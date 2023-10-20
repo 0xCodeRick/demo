@@ -21,7 +21,13 @@
     "snNumber": "22"
    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "material": {
+    "id": null,
+    "uniqueId": 456,
+    "plantCode": "PLT123",
+    "lineCode": "LINE456",
+    "stationCode": "STATION789",
+    "materialCode": "MATERIAL-001"
+}
+
 }
