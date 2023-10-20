@@ -1,12 +1,25 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+    "id": ,
+    "lineCode": "LC1231",
+    "materialCode": "MC4561",
+    "orderId": "ORD7891",
+    "type": "TypeA1",
+    "serialNum": "SN1234561",
+    "passTime": "2023-10-20T14:30:00Z",
+    "snNumber": "ZC78901231"
+    },
+   {
+    "id": ,
+    "lineCode": "LC1232",
+    "materialCode": "MC4562",
+    "orderId": "ORD7892",
+    "type": "TypeA2",
+    "serialNum": "SN1234562",
+    "passTime": "2023-10-20T14:30:00Z",
+    "snNumber": "ZC78901234"
+   }
   ],
   "profile": {
     "name": "typicode"
