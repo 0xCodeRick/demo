@@ -31,9 +31,24 @@
 },
   "identifier":{
     "id": 1,
-    "callId":2,
-    "status":"1"
-  }
+    "plantCode": 101,
+    "plantDesc": "工厂A",
+    "shopCode": 201,
+    "shopDesc": "车间1",
+    "lineCode": 301,
+    "lineDesc": "生产线A",
+    "stationCode": 401,
+    "stationDesc": "工位1",
+    "orderType": "普通订单",
+    "orderId": 1001,
+    "serialNum": "SN12345",
+    "productOrder": "PO67890",
+    "productCode": "P123",
+    "productDesc": "产品A",
+    "snNumber": "SN56789",
+    "generaTime": "2023-11-02T10:30:00"
+}
+
 
 
 }
